@@ -1,0 +1,53 @@
+powershell.exe Error: 0 : 2018-10-17 23:03:31.9637	[OfficeDevPnP.Core]	[0]	[Error]	ExecuteQuery threw following exception: System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.SharePoint.Client.SPWebRequestExecutor.<ExecuteAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.SharePoint.Client.ClientContext.<GetFormDigestInfoPrivateAsync>d__b.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.SharePoint.Client.ClientContext.<EnsureFormDigestAsync>d__8.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.SharePoint.Client.ClientContext.<ExecuteQueryAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.SharePoint.Client.ClientContextExtensions.<ExecuteQueryImplementation>d__7.MoveNext().	0ms	
+powershell.exe Information: 0 : 2018-10-17 23:03:43.6165	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 23:03:43.6175	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 23:03:43.6340	[Provisioning]	[14]	[Debug]	Code execution scope started	0ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:03:43.6340	[Provisioning]	[14]	[Information]	ProgressDelegate registered	0ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:03:43.6345	[Provisioning]	[14]	[Information]	MessagesDelegate registered	0ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:03:50.2454	[Extensibility Providers]	[14]	[Debug]	Code execution scope started	0ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:03:50.2464	[Extensibility Providers]	[14]	[Debug]	Code execution scope ended	0ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:03:50.3842	[Files]	[14]	[Debug]	Code execution scope started	0ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:03:50.7127	[OfficeDevPnP.Core]	[0]	[Information]	Creating folder 'QuickLaunch' under List '/sites/brandme/Style Library'.	0ms	
+powershell.exe Information: 0 : 2018-10-17 23:03:51.4325	[OfficeDevPnP.Core]	[0]	[Information]	File left-nav-override.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 23:03:51.4325	[Files]	[14]	[Debug]	Uploading file left-nav-override.js	1048ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:03:51.4335	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-17 23:03:52.1497	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-17 23:03:52.5243	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-17 23:04:05.4828	[OfficeDevPnP.Core]	[0]	[Information]	Creating folder '~Style Library' under Web '/sites/brandme/'.	0ms	
+powershell.exe Information: 0 : 2018-10-17 23:04:05.7733	[OfficeDevPnP.Core]	[0]	[Information]	Creating folder '~Style Library/QuickLaunch' under Web '/sites/brandme/'.	0ms	
+powershell.exe Information: 0 : 2018-10-17 23:04:06.0799	[OfficeDevPnP.Core]	[0]	[Information]	File Custom-Script-Action.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 23:04:06.0809	[Files]	[14]	[Debug]	Uploading file Custom-Script-Action.js	15696ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:04:06.0809	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-17 23:04:06.6456	[Files]	[14]	[Debug]	Code execution scope ended	16261ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:04:06.7096	[Tenant Settings]	[14]	[Debug]	Code execution scope started	0ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:04:06.7096	[Tenant Settings]	[14]	[Debug]	Code execution scope ended	0ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:04:06.7256	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope started	0ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:04:06.7266	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope ended	0ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:04:06.7472	[Custom Actions]	[14]	[Debug]	Code execution scope started	0ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:04:06.8631	[Custom Actions]	[14]	[Debug]	Adding custom action 'QL_Dropdown' to scope Site	116ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:04:07.2073	[Custom Actions]	[14]	[Debug]	Code execution scope ended	460ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:04:07.2082	[Persist Template Info]	[14]	[Debug]	Code execution scope started	0ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:04:08.0623	[Persist Template Info]	[14]	[Debug]	Code execution scope ended	833ms	e5878271-ec74-42c7-9ada-affe61335aeb
+powershell.exe Information: 0 : 2018-10-17 23:04:08.0633	[Provisioning]	[14]	[Debug]	Code execution scope ended	24429ms	e5878271-ec74-42c7-9ada-affe61335aeb

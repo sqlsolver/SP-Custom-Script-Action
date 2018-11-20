@@ -1,0 +1,35 @@
+powershell.exe Information: 0 : 2018-10-22 10:30:45.7092	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-22 10:30:45.7102	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-22 10:30:45.7382	[Provisioning]	[14]	[Debug]	Code execution scope started	0ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:30:45.7392	[Provisioning]	[14]	[Information]	ProgressDelegate registered	0ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:30:45.7412	[Provisioning]	[14]	[Information]	MessagesDelegate registered	2ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:30:53.2143	[Extensibility Providers]	[14]	[Debug]	Code execution scope started	0ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:30:53.2148	[Extensibility Providers]	[14]	[Debug]	Code execution scope ended	0ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:30:53.3495	[Files]	[14]	[Debug]	Code execution scope started	0ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:31:06.7379	[OfficeDevPnP.Core]	[0]	[Information]	Creating folder 'QuickLaunch' under List '/sites/brandme/Style Library'.	0ms	
+powershell.exe Information: 0 : 2018-10-22 10:31:07.5035	[OfficeDevPnP.Core]	[0]	[Information]	File left-nav-override.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-22 10:31:07.5035	[Files]	[14]	[Debug]	Uploading file left-nav-override.js	14154ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:31:07.5045	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-22 10:31:08.1610	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-22 10:31:08.4213	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-22 10:31:09.1304	[OfficeDevPnP.Core]	[0]	[Information]	File left-nav-override.css retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-22 10:31:09.1304	[Files]	[14]	[Debug]	Uploading file left-nav-override.css	15780ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:31:09.1304	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'left-nav-override.css'	0ms	
+powershell.exe Information: 0 : 2018-10-22 10:31:09.7956	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'left-nav-override.css'	0ms	
+powershell.exe Information: 0 : 2018-10-22 10:31:10.0163	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'left-nav-override.css'	0ms	
+powershell.exe Information: 0 : 2018-10-22 10:31:10.7536	[OfficeDevPnP.Core]	[0]	[Information]	File Custom-Script-Action.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-22 10:31:10.7536	[Files]	[14]	[Debug]	Uploading file Custom-Script-Action.js	17403ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:31:10.7545	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-22 10:31:11.5239	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-22 10:31:11.7611	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-22 10:31:12.0115	[Files]	[14]	[Debug]	Code execution scope ended	18661ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:31:12.0555	[Tenant Settings]	[14]	[Debug]	Code execution scope started	0ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:31:12.0565	[Tenant Settings]	[14]	[Debug]	Code execution scope ended	0ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:31:12.0705	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope started	0ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:31:12.0705	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope ended	0ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:31:12.0885	[Custom Actions]	[14]	[Debug]	Code execution scope started	0ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:31:12.2176	[Custom Actions]	[14]	[Debug]	Adding custom action 'QL_Dropdown' to scope Site	129ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:31:12.6299	[Custom Actions]	[14]	[Debug]	Code execution scope ended	541ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:31:12.6309	[Persist Template Info]	[14]	[Debug]	Code execution scope started	0ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:31:13.4294	[Persist Template Info]	[14]	[Debug]	Code execution scope ended	798ms	bb052425-fb6a-4599-ae0f-bba1bd936250
+powershell.exe Information: 0 : 2018-10-22 10:31:13.4303	[Provisioning]	[14]	[Debug]	Code execution scope ended	27691ms	bb052425-fb6a-4599-ae0f-bba1bd936250

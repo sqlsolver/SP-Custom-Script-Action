@@ -1,0 +1,11 @@
+powershell.exe Information: 0 : 2018-10-17 22:59:36.4691	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 22:59:36.4721	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 22:59:36.4916	[Provisioning]	[14]	[Debug]	Code execution scope started	0ms	9cedb4c6-1007-45a9-8b8c-60e5a25b8f08
+powershell.exe Information: 0 : 2018-10-17 22:59:36.4916	[Provisioning]	[14]	[Information]	ProgressDelegate registered	0ms	9cedb4c6-1007-45a9-8b8c-60e5a25b8f08
+powershell.exe Information: 0 : 2018-10-17 22:59:36.4926	[Provisioning]	[14]	[Information]	MessagesDelegate registered	1ms	9cedb4c6-1007-45a9-8b8c-60e5a25b8f08
+powershell.exe Information: 0 : 2018-10-17 22:59:43.4632	[Extensibility Providers]	[14]	[Debug]	Code execution scope started	0ms	9cedb4c6-1007-45a9-8b8c-60e5a25b8f08
+powershell.exe Information: 0 : 2018-10-17 22:59:43.4632	[Extensibility Providers]	[14]	[Debug]	Code execution scope ended	0ms	9cedb4c6-1007-45a9-8b8c-60e5a25b8f08
+powershell.exe Information: 0 : 2018-10-17 22:59:43.5883	[Files]	[14]	[Debug]	Code execution scope started	0ms	9cedb4c6-1007-45a9-8b8c-60e5a25b8f08
+powershell.exe Information: 0 : 2018-10-17 22:59:56.0900	[OfficeDevPnP.Core]	[0]	[Information]	Creating folder '~sitecollection' under Web '/sites/brandme/'.	0ms	
+powershell.exe Information: 0 : 2018-10-17 22:59:56.2132	[Files]	[14]	[Debug]	Code execution scope ended	12625ms	9cedb4c6-1007-45a9-8b8c-60e5a25b8f08
+powershell.exe Information: 0 : 2018-10-17 22:59:56.2142	[Provisioning]	[14]	[Debug]	Code execution scope ended	19722ms	9cedb4c6-1007-45a9-8b8c-60e5a25b8f08

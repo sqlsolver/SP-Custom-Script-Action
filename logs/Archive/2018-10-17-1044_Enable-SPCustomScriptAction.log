@@ -1,0 +1,3 @@
+powershell.exe Information: 0 : 2018-10-17 10:44:59.8030	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 10:44:59.8040	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Error: 0 : 2018-10-17 10:44:59.8185	[SchemaFormatter]	[0]	[Error]	Template is not valid: The 'Enabled' attribute is invalid - The value 'True' is invalid according to its datatype 'http://www.w3.org/2001/XMLSchema:boolean' - The string 'True' is not a valid Boolean value.	0ms	

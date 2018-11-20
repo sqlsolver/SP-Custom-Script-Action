@@ -1,0 +1,45 @@
+powershell.exe Information: 0 : 2018-10-26 22:17:24.4809	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:24.4819	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:24.5054	[Provisioning]	[14]	[Debug]	Code execution scope started	0ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:24.5064	[Provisioning]	[14]	[Information]	ProgressDelegate registered	0ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:24.5064	[Provisioning]	[14]	[Information]	MessagesDelegate registered	0ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:31.5896	[Extensibility Providers]	[14]	[Debug]	Code execution scope started	0ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:31.5896	[Extensibility Providers]	[14]	[Debug]	Code execution scope ended	0ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:31.7507	[Files]	[14]	[Debug]	Code execution scope started	0ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:44.1992	[OfficeDevPnP.Core]	[0]	[Information]	Creating folder 'QuickLaunch' under List '/sites/brandme/Style Library'.	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:44.7718	[OfficeDevPnP.Core]	[0]	[Information]	File left-nav-override.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:44.7718	[Files]	[14]	[Debug]	Uploading file left-nav-override.js	13021ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:44.7728	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:45.3649	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:45.5699	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:46.2274	[OfficeDevPnP.Core]	[0]	[Information]	File left-nav-override.css retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:46.2279	[Files]	[14]	[Debug]	Uploading file left-nav-override.css	14477ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:46.2279	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'left-nav-override.css'	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:47.0087	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'left-nav-override.css'	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:47.3832	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'left-nav-override.css'	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:48.0365	[OfficeDevPnP.Core]	[0]	[Information]	File Custom-Script-Action.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:48.0365	[Files]	[14]	[Debug]	Uploading file Custom-Script-Action.js	16286ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:48.0376	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:48.6475	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:48.8647	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:49.6880	[Files]	[14]	[Debug]	Uploading and overwriting existing file connectslogo(78px).png	17937ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:49.8291	[OfficeDevPnP.Core]	[0]	[Information]	File connectslogo(78px).png retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:49.8296	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'connectslogo(78px).png'	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:50.4722	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'connectslogo(78px).png'	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:50.6726	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'connectslogo(78px).png'	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:51.3200	[Files]	[14]	[Debug]	Uploading and overwriting existing file Waypoint-Logo_color.png	19569ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:51.4662	[OfficeDevPnP.Core]	[0]	[Information]	File Waypoint-Logo_color.png retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:51.4672	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'Waypoint-Logo_color.png'	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:52.4117	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'Waypoint-Logo_color.png'	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:52.6930	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'Waypoint-Logo_color.png'	0ms	
+powershell.exe Information: 0 : 2018-10-26 22:17:52.8770	[Files]	[14]	[Debug]	Code execution scope ended	21126ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:52.9119	[Tenant Settings]	[14]	[Debug]	Code execution scope started	0ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:52.9119	[Tenant Settings]	[14]	[Debug]	Code execution scope ended	0ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:52.9290	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope started	0ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:52.9290	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope ended	0ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:52.9435	[Custom Actions]	[14]	[Debug]	Code execution scope started	0ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:53.1348	[Custom Actions]	[14]	[Debug]	Adding custom action 'QL_Dropdown' to scope Site	191ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:53.3931	[Custom Actions]	[14]	[Debug]	Code execution scope ended	450ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:53.3941	[Persist Template Info]	[14]	[Debug]	Code execution scope started	0ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:54.0953	[Persist Template Info]	[14]	[Debug]	Code execution scope ended	701ms	78e51daf-2fdf-40fd-b77d-02390e10d86a
+powershell.exe Information: 0 : 2018-10-26 22:17:54.0953	[Provisioning]	[14]	[Debug]	Code execution scope ended	29589ms	78e51daf-2fdf-40fd-b77d-02390e10d86a

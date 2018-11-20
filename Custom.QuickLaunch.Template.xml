@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<pnp:Provisioning xmlns:pnp="http://schemas.dev.office.com/PnP/2018/07/ProvisioningSchema">
+  <pnp:Preferences Author="Eric Overfield and adapted by Ramona Maxwell" />
+  <pnp:Templates ID="CONTAINER-OVERRIDE-LEFT-NAV-INFRASTRUCTURE">
+    <pnp:ProvisioningTemplate ID="OVERRIDE-LEFT-NAV-INFRASTRUCTURE" Version="1">
+      <pnp:Files>
+        <pnp:File Src="left-nav-override.js" 
+          Folder="{sitecollection}/Style Library/QuickLaunch" 
+          Overwrite="true" />
+      <pnp:File Src="left-nav-override.css" 
+          Folder="{sitecollection}/Style Library/QuickLaunch" 
+          Overwrite="true" />
+        <pnp:File Src="Custom-Script-Action.js" 
+          Folder="{sitecollection}/Style Library/QuickLaunch" 
+          Overwrite="true" />
+        <pnp:File Src="connectslogo(78px).png" 
+          Folder="{sitecollection}/Style Library/Logo" 
+          Overwrite="true" />
+        <pnp:File Src="Waypoint-Logo_color.png" 
+          Folder="{sitecollection}/Style Library/Logo" 
+          Overwrite="true" />
+      </pnp:Files>
+      <pnp:CustomActions>
+        <pnp:SiteCustomActions>
+          <pnp:CustomAction Name="Load_jQuery"
+            Title="Provide jQuery"
+            Location="ScriptLink" 
+            ScriptSrc="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" 
+            Sequence="10" /> 
+          <pnp:CustomAction Name="QL_Dropdown"
+            Location="ScriptLink"
+            Title="QL Dropdown"
+            Sequence="30" 
+            ScriptSrc="https://sharepointsolver.sharepoint.com/sites/brandme/Style Library/QuickLaunch/Custom-Script-Action.js" />
+        </pnp:SiteCustomActions>
+      </pnp:CustomActions>
+      <pnp:WebSettings
+        SiteLogo="https://sharepointsolver.sharepoint.com/sites/brandme/Style Library/Logo/connectslogo(78px).png" />
+    </pnp:ProvisioningTemplate>
+  </pnp:Templates>
+</pnp:Provisioning>

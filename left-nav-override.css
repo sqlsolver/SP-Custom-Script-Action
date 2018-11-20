@@ -1,0 +1,47 @@
+.base {
+    background-color: #416799;
+    cursor: pointer;
+}
+
+.baseBorder {
+    border-top: 1px solid #fff;
+}
+
+.Office365Icon:before {
+    float: right;
+    color: #fff;
+    font-family: SPO365Icons;
+    font-size: small;
+    font-weight: bold;
+    content: "\e088";
+}
+
+.baseText {
+    color: #fff;
+}
+
+.subMenu {
+    background-color: #fff;
+    padding-left: 40px;
+}
+
+.subMenuText span {
+    color: #5d5f5e;
+}
+
+/* O365 icon fonts */
+
+@font-face {
+    font-family: "SPO365Icons";
+    src: url("//sharepointsolver.sharepoint.com/_layouts/15/fonts/Office365Icons.eot");
+    src: url("//sharepointsolver.sharepoint.com/_layouts/15/fonts/Office365Icons.eot?#iefix") format("embedded-opentype"), 
+         url("//sharepointsolver.sharepoint.com/_layouts/15/fonts/Office365Icons.woff") format("woff"), 
+         url("//sharepointsolver.sharepoint.com/_layouts/15/fonts/Office365Icons.ttf") format("truetype"), 
+         url("//sharepointsolver.sharepoint.com/_layouts/15/fonts/Office365Icons.svg#web") format("svg");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*hide conversion to modern site option*/
+a[onclick='GoToModern(false)']{ display: none }
+a[onclick='GoToModern(true)']{ display: none }

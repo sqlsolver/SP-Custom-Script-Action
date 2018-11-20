@@ -1,0 +1,3 @@
+powershell.exe Information: 0 : 2018-11-06 12:14:29.6234	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-11-06 12:14:29.6254	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Error: 0 : 2018-11-06 12:14:29.6404	[SchemaFormatter]	[0]	[Error]	Template is not valid: The element 'SiteCustomActions' in namespace 'http://schemas.dev.office.com/PnP/2018/07/ProvisioningSchema' has invalid child element 'CustomAction'. List of possible elements expected: 'CustomAction' in namespace 'http://schemas.dev.office.com/PnP/2018/07/ProvisioningSchema'.	0ms	

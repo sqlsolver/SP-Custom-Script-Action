@@ -1,0 +1,30 @@
+powershell.exe Information: 0 : 2018-10-21 23:10:37.0215	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-21 23:10:37.0225	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-21 23:10:37.0530	[Provisioning]	[14]	[Debug]	Code execution scope started	0ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:10:37.0536	[Provisioning]	[14]	[Information]	ProgressDelegate registered	0ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:10:37.0545	[Provisioning]	[14]	[Information]	MessagesDelegate registered	1ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:10:44.9648	[Extensibility Providers]	[14]	[Debug]	Code execution scope started	0ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:10:44.9648	[Extensibility Providers]	[14]	[Debug]	Code execution scope ended	0ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:10:45.2394	[Files]	[14]	[Debug]	Code execution scope started	0ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:11:00.0809	[OfficeDevPnP.Core]	[0]	[Information]	Creating folder 'QuickLaunch' under List '/sites/brandme/Style Library'.	0ms	
+powershell.exe Information: 0 : 2018-10-21 23:11:00.8331	[OfficeDevPnP.Core]	[0]	[Information]	File left-nav-override.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-21 23:11:00.8331	[Files]	[14]	[Debug]	Uploading file left-nav-override.js	15593ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:11:00.8331	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-21 23:11:01.7675	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-21 23:11:02.2512	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-21 23:11:03.2325	[OfficeDevPnP.Core]	[0]	[Information]	File Custom-Script-Action.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-21 23:11:03.2325	[Files]	[14]	[Debug]	Uploading file Custom-Script-Action.js	17993ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:11:03.2325	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-21 23:11:04.0140	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-21 23:11:04.3104	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-21 23:11:04.5179	[Files]	[14]	[Debug]	Code execution scope ended	19278ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:11:04.5815	[Tenant Settings]	[14]	[Debug]	Code execution scope started	0ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:11:04.5820	[Tenant Settings]	[14]	[Debug]	Code execution scope ended	0ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:11:04.6011	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope started	0ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:11:04.6016	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope ended	0ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:11:04.6196	[Custom Actions]	[14]	[Debug]	Code execution scope started	0ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:11:04.7704	[Custom Actions]	[14]	[Debug]	Adding custom action 'QL_Dropdown' to scope Site	150ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:11:05.2146	[Custom Actions]	[14]	[Debug]	Code execution scope ended	595ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:11:05.2156	[Persist Template Info]	[14]	[Debug]	Code execution scope started	0ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:11:06.0370	[Persist Template Info]	[14]	[Debug]	Code execution scope ended	821ms	32cfbce0-48f2-4395-83ec-10834c0ebac2
+powershell.exe Information: 0 : 2018-10-21 23:11:06.0370	[Provisioning]	[14]	[Debug]	Code execution scope ended	28984ms	32cfbce0-48f2-4395-83ec-10834c0ebac2

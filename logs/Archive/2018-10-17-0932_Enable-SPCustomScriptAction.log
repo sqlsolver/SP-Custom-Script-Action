@@ -1,0 +1,60 @@
+powershell.exe Information: 0 : 2018-10-17 21:32:04.9400	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 21:32:04.9415	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 21:32:04.9785	[Provisioning]	[14]	[Debug]	Code execution scope started	0ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:04.9789	[Provisioning]	[14]	[Information]	ProgressDelegate registered	0ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:04.9815	[Provisioning]	[14]	[Information]	MessagesDelegate registered	2ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:20.6117	[Extensibility Providers]	[14]	[Debug]	Code execution scope started	0ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:20.6128	[Extensibility Providers]	[14]	[Debug]	Code execution scope ended	1ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:20.7762	[Files]	[14]	[Debug]	Code execution scope started	0ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:21.7986	[OfficeDevPnP.Core]	[0]	[Information]	Creating folder 'QuickLaunch' under List '/sites/brandme/SiteAssets'.	0ms	
+powershell.exe Information: 0 : 2018-10-17 21:32:23.5744	[OfficeDevPnP.Core]	[0]	[Information]	File left-nav-override.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 21:32:23.5744	[Files]	[14]	[Debug]	Uploading file left-nav-override.js	2798ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:23.5754	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-17 21:32:26.8229	[OfficeDevPnP.Core]	[0]	[Information]	File Custom-Script-Action.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 21:32:26.8239	[Files]	[14]	[Debug]	Uploading file Custom-Script-Action.js	6047ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:26.8239	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-17 21:32:28.5300	[Files]	[14]	[Debug]	Code execution scope ended	7753ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:28.6150	[Tenant Settings]	[14]	[Debug]	Code execution scope started	0ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:28.6161	[Tenant Settings]	[14]	[Debug]	Code execution scope ended	1ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:28.6391	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope started	0ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:28.6391	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope ended	0ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:28.6608	[Custom Actions]	[14]	[Debug]	Code execution scope started	0ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:29.0668	[Custom Actions]	[14]	[Debug]	Adding custom action 'QL_Dropdown' to scope Site	406ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:29.6798	[Custom Actions]	[14]	[Debug]	Code execution scope ended	1019ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:29.6808	[Persist Template Info]	[14]	[Debug]	Code execution scope started	0ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:32.4020	[Persist Template Info]	[14]	[Debug]	Code execution scope ended	2721ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 2018-10-17 21:32:32.4025	[Provisioning]	[14]	[Debug]	Code execution scope ended	27423ms	7eeff9fa-d958-4fa8-9afe-2d2b08448856
+powershell.exe Information: 0 : 10/18/2018 4:49:36 AM:  - AuthenticationContext: ADAL .NET with assembly version '2.19.0.0', file version '2.19.20802.0213' and informational version 'f719a3fb5ab2559980bb7e75ee78bc15068282fa' is running...
+powershell.exe Information: 0 : 10/18/2018 4:49:36 AM: da7c8405-5580-4def-96e9-ae142bf192ee - AcquireTokenHandlerBase: === Token Acquisition started:
+	Authority: https://login.microsoftonline.com/common/
+	Resource: https://sharepointsolver-admin.sharepoint.com/
+	ClientId: 9bc3ab49-b65d-410a-85ad-de819febfddc
+	CacheType: Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache (0 items)
+	Authentication Target: User
+	
+powershell.exe Information: 0 : 10/18/2018 4:49:37 AM:  - WindowsFormsWebAuthenticationDialogBase: Navigating to 'https://login.microsoftonline.com/common/oauth2/authorize?resource=https://sharepointsolver-admin.sharepoint.com/&client_id=9bc3ab49-b65d-410a-85ad-de819febfddc&response_type=code&redirect_uri=https://oauth.spops.microsoft.com/&client-request-id=da7c8405-5580-4def-96e9-ae142bf192ee&prompt=login&x-client-SKU=.NET&x-client-Ver=2.19.0.0&x-client-CPU=x64&x-client-OS=Microsoft Windows NT 10.0.15063.0'.
+powershell.exe Information: 0 : 10/18/2018 4:49:38 AM:  - WindowsFormsWebAuthenticationDialogBase: Navigated to 'https://login.microsoftonline.com/common/oauth2/authorize?resource=https://sharepointsolver-admin.sharepoint.com/&client_id=9bc3ab49-b65d-410a-85ad-de819febfddc&response_type=code&redirect_uri=https://oauth.spops.microsoft.com/&client-request-id=da7c8405-5580-4def-96e9-ae142bf192ee&prompt=login&x-client-SKU=.NET&x-client-Ver=2.19.0.0&x-client-CPU=x64&x-client-OS=Microsoft Windows NT 10.0.15063.0'.
+powershell.exe Information: 0 : 10/18/2018 4:49:58 AM:  - WindowsFormsWebAuthenticationDialogBase: Navigating to 'https://login.microsoftonline.com/common/login'.
+powershell.exe Information: 0 : 10/18/2018 4:49:58 AM:  - WindowsFormsWebAuthenticationDialogBase: WebBrowser state: IsBusy: True, ReadyState: Complete, Created: True, Disposing: False, IsDisposed: False, IsOffline: False
+powershell.exe Information: 0 : 10/18/2018 4:49:58 AM:  - WindowsFormsWebAuthenticationDialogBase: WebBrowser state (after Stop): IsBusy: False, ReadyState: Complete, Created: True, Disposing: False, IsDisposed: False, IsOffline: False
+powershell.exe Information: 0 : 10/18/2018 4:49:59 AM: da7c8405-5580-4def-96e9-ae142bf192ee - TokenCache: Storing token in the cache...
+powershell.exe Information: 0 : 10/18/2018 4:49:59 AM: da7c8405-5580-4def-96e9-ae142bf192ee - TokenCache: An item was stored in the cache
+powershell.exe Information: 0 : 10/18/2018 4:49:59 AM: da7c8405-5580-4def-96e9-ae142bf192ee - AcquireTokenHandlerBase: === Token Acquisition finished successfully. An access token was retuned:
+	Access Token Hash: xE+Uy3n0/94MMzrFD/FFYzttvA4sAuL257IDK9Wa5d0=
+	Refresh Token Hash: 7E38bOpnT25WuJ7SLzv3VNWraDKO8tNd41OKvfKNiW8=
+	Expiration Time: 10/18/2018 5:49:58 AM +00:00
+	User Hash: FrhjvYT3JVzzkOAKcP5SQzBKdq2d4pNXof3KocTCBsY=
+	
+powershell.exe Information: 0 : 10/18/2018 5:51:07 AM: 74935e61-d042-49d2-a284-930dcfd1a38e - AcquireTokenHandlerBase: === Token Acquisition started:
+	Authority: https://login.microsoftonline.com/27bbae1a-fc7e-4980-ae9f-f1d4eef82086/
+	Resource: null_resource_as_optional
+	ClientId: 9bc3ab49-b65d-410a-85ad-de819febfddc
+	CacheType: Microsoft.IdentityModel.Clients.ActiveDirectory.TokenCache (1 items)
+	Authentication Target: UserPlusClient
+	
+powershell.exe Information: 0 : 10/18/2018 5:51:08 AM: 74935e61-d042-49d2-a284-930dcfd1a38e - AcquireTokenHandlerBase: === Token Acquisition finished successfully. An access token was retuned:
+	Access Token Hash: TI3Wh+IUCAOxXARjxLlmpLJkAjERnXAPzUAUiLBQ16A=
+	Refresh Token Hash: uOu1NIBZBqB6sxKPF9y5WR0Jbb4s7fuD+TCG4SuxlzU=
+	Expiration Time: 10/18/2018 6:51:08 AM +00:00
+	User Hash: null
+	

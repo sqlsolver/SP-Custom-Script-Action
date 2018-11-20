@@ -1,0 +1,26 @@
+powershell.exe Information: 0 : 2018-10-17 22:55:57.5258	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 22:55:57.5268	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 22:55:57.5532	[Provisioning]	[14]	[Debug]	Code execution scope started	0ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:55:57.5532	[Provisioning]	[14]	[Information]	ProgressDelegate registered	0ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:55:57.5532	[Provisioning]	[14]	[Information]	MessagesDelegate registered	0ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:04.3433	[Extensibility Providers]	[14]	[Debug]	Code execution scope started	0ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:04.3438	[Extensibility Providers]	[14]	[Debug]	Code execution scope ended	0ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:04.4906	[Files]	[14]	[Debug]	Code execution scope started	0ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:04.9342	[OfficeDevPnP.Core]	[0]	[Information]	Creating folder 'QuickLaunch' under List '/sites/brandme/SiteAssets'.	0ms	
+powershell.exe Information: 0 : 2018-10-17 22:56:05.5786	[OfficeDevPnP.Core]	[0]	[Information]	File left-nav-override.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 22:56:05.5796	[Files]	[14]	[Debug]	Uploading file left-nav-override.js	1088ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:05.5796	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-17 22:56:06.7741	[OfficeDevPnP.Core]	[0]	[Information]	File Custom-Script-Action.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 22:56:06.7741	[Files]	[14]	[Debug]	Uploading file Custom-Script-Action.js	2283ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:06.7741	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-17 22:56:07.5039	[Files]	[14]	[Debug]	Code execution scope ended	3013ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:07.5737	[Tenant Settings]	[14]	[Debug]	Code execution scope started	0ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:07.5747	[Tenant Settings]	[14]	[Debug]	Code execution scope ended	1ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:07.6037	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope started	0ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:07.6047	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope ended	0ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:07.6395	[Custom Actions]	[14]	[Debug]	Code execution scope started	0ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:07.7705	[Custom Actions]	[14]	[Debug]	Adding custom action 'QL_Dropdown' to scope Site	130ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:08.1032	[Custom Actions]	[14]	[Debug]	Code execution scope ended	464ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:08.1042	[Persist Template Info]	[14]	[Debug]	Code execution scope started	0ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:08.9309	[Persist Template Info]	[14]	[Debug]	Code execution scope ended	826ms	64555383-42bf-472a-9df6-5c4eef04f45f
+powershell.exe Information: 0 : 2018-10-17 22:56:08.9314	[Provisioning]	[14]	[Debug]	Code execution scope ended	11378ms	64555383-42bf-472a-9df6-5c4eef04f45f

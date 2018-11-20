@@ -1,0 +1,40 @@
+powershell.exe Information: 0 : 2018-10-24 14:39:07.8308	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:07.8319	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:07.8508	[Provisioning]	[14]	[Debug]	Code execution scope started	0ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:07.8508	[Provisioning]	[14]	[Information]	ProgressDelegate registered	0ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:07.8528	[Provisioning]	[14]	[Information]	MessagesDelegate registered	2ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:16.6399	[Extensibility Providers]	[14]	[Debug]	Code execution scope started	0ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:16.6399	[Extensibility Providers]	[14]	[Debug]	Code execution scope ended	0ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:16.7659	[Files]	[14]	[Debug]	Code execution scope started	0ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:31.6368	[OfficeDevPnP.Core]	[0]	[Information]	Creating folder 'QuickLaunch' under List '/sites/brandme/Style Library'.	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:32.2923	[OfficeDevPnP.Core]	[0]	[Information]	File left-nav-override.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:32.2923	[Files]	[14]	[Debug]	Uploading file left-nav-override.js	15526ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:32.2923	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:32.9133	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:33.1453	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:33.7925	[OfficeDevPnP.Core]	[0]	[Information]	File left-nav-override.css retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:33.7925	[Files]	[14]	[Debug]	Uploading file left-nav-override.css	17026ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:33.7935	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'left-nav-override.css'	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:34.6646	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'left-nav-override.css'	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:34.8627	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'left-nav-override.css'	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:35.5270	[OfficeDevPnP.Core]	[0]	[Information]	File Custom-Script-Action.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:35.5270	[Files]	[14]	[Debug]	Uploading file Custom-Script-Action.js	18760ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:35.5270	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:36.3622	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:36.5920	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:37.4622	[OfficeDevPnP.Core]	[0]	[Information]	File jquery-ui.min.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:37.4632	[Files]	[14]	[Debug]	Uploading file jquery-ui.min.js	20696ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:37.4632	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'jquery-ui.min.js'	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:38.6469	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'jquery-ui.min.js'	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:38.8449	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'jquery-ui.min.js'	0ms	
+powershell.exe Information: 0 : 2018-10-24 14:39:39.0150	[Files]	[14]	[Debug]	Code execution scope ended	22249ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:39.0599	[Tenant Settings]	[14]	[Debug]	Code execution scope started	0ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:39.0609	[Tenant Settings]	[14]	[Debug]	Code execution scope ended	0ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:39.0769	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope started	0ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:39.0769	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope ended	0ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:39.1009	[Custom Actions]	[14]	[Debug]	Code execution scope started	0ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:39.2279	[Custom Actions]	[14]	[Debug]	Adding custom action 'QL_Dropdown' to scope Site	127ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:39.8041	[Custom Actions]	[14]	[Debug]	Code execution scope ended	703ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:39.8051	[Persist Template Info]	[14]	[Debug]	Code execution scope started	0ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:40.6323	[Persist Template Info]	[14]	[Debug]	Code execution scope ended	827ms	63ecb073-7d16-4730-81a3-600c62f12e34
+powershell.exe Information: 0 : 2018-10-24 14:39:40.6323	[Provisioning]	[14]	[Debug]	Code execution scope ended	32782ms	63ecb073-7d16-4730-81a3-600c62f12e34

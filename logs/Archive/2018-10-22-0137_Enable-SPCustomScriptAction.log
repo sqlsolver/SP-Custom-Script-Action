@@ -1,0 +1,35 @@
+powershell.exe Information: 0 : 2018-10-22 01:37:45.3838	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-22 01:37:45.3858	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-22 01:37:45.4243	[Provisioning]	[14]	[Debug]	Code execution scope started	0ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:37:45.4248	[Provisioning]	[14]	[Information]	ProgressDelegate registered	0ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:37:45.4274	[Provisioning]	[14]	[Information]	MessagesDelegate registered	2ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:37:55.8375	[Extensibility Providers]	[14]	[Debug]	Code execution scope started	0ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:37:55.8385	[Extensibility Providers]	[14]	[Debug]	Code execution scope ended	0ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:37:56.0917	[Files]	[14]	[Debug]	Code execution scope started	0ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:38:17.8647	[Files]	[14]	[Debug]	Uploading and overwriting existing file left-nav-override.js	21772ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:38:18.0253	[OfficeDevPnP.Core]	[0]	[Information]	File left-nav-override.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-22 01:38:18.0263	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-22 01:38:18.8459	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-22 01:38:19.0688	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-22 01:38:19.9380	[Files]	[14]	[Debug]	Uploading and overwriting existing file left-nav-override.css	23845ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:38:20.0820	[OfficeDevPnP.Core]	[0]	[Information]	File left-nav-override.css retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-22 01:38:20.0820	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'left-nav-override.css'	0ms	
+powershell.exe Information: 0 : 2018-10-22 01:38:20.9703	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'left-nav-override.css'	0ms	
+powershell.exe Information: 0 : 2018-10-22 01:38:21.1790	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'left-nav-override.css'	0ms	
+powershell.exe Information: 0 : 2018-10-22 01:38:21.9705	[Files]	[14]	[Debug]	Uploading and overwriting existing file Custom-Script-Action.js	25877ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:38:22.1298	[OfficeDevPnP.Core]	[0]	[Information]	File Custom-Script-Action.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-22 01:38:22.1308	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-22 01:38:22.6924	[OfficeDevPnP.Core]	[0]	[Debug]	Checking in file 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-22 01:38:22.9701	[OfficeDevPnP.Core]	[0]	[Debug]	Publishing file 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-22 01:38:23.1906	[Files]	[14]	[Debug]	Code execution scope ended	27098ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:38:23.2288	[Tenant Settings]	[14]	[Debug]	Code execution scope started	0ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:38:23.2298	[Tenant Settings]	[14]	[Debug]	Code execution scope ended	1ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:38:23.2468	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope started	0ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:38:23.2468	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope ended	0ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:38:23.2638	[Custom Actions]	[14]	[Debug]	Code execution scope started	0ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:38:23.5833	[Custom Actions]	[14]	[Debug]	Updating property Title	319ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:38:24.0418	[Custom Actions]	[14]	[Debug]	Updating property Title	778ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:38:24.1732	[Custom Actions]	[14]	[Debug]	Code execution scope ended	909ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:38:24.1742	[Persist Template Info]	[14]	[Debug]	Code execution scope started	0ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:38:24.9197	[Persist Template Info]	[14]	[Debug]	Code execution scope ended	745ms	08eaea1e-b671-4626-a684-8921e36474f3
+powershell.exe Information: 0 : 2018-10-22 01:38:24.9202	[Provisioning]	[14]	[Debug]	Code execution scope ended	39495ms	08eaea1e-b671-4626-a684-8921e36474f3

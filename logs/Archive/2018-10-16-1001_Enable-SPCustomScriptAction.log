@@ -1,0 +1,40 @@
+powershell.exe Information: 0 : 2018-10-16 22:01:42.9376	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.Script.Action.Infrastructure.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-16 22:01:42.9386	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.Script.Action.Infrastructure.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-16 22:01:42.9526	[Provisioning]	[14]	[Debug]	Code execution scope started	0ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:42.9526	[Provisioning]	[14]	[Information]	ProgressDelegate registered	0ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:42.9546	[Provisioning]	[14]	[Information]	MessagesDelegate registered	2ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:49.9558	[Extensibility Providers]	[14]	[Debug]	Code execution scope started	0ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:49.9558	[Extensibility Providers]	[14]	[Debug]	Code execution scope ended	0ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:50.0884	[Files]	[14]	[Debug]	Code execution scope started	0ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:50.4409	[OfficeDevPnP.Core]	[0]	[Information]	Creating folder 'QuickLaunch' under List '/sites/brandme/SiteAssets'.	0ms	
+powershell.exe Information: 0 : 2018-10-16 22:01:51.2076	[OfficeDevPnP.Core]	[0]	[Information]	File left-nav-override.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-16 22:01:51.2076	[Files]	[14]	[Debug]	Uploading file left-nav-override.js	1118ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:51.2081	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-16 22:01:52.4613	[OfficeDevPnP.Core]	[0]	[Information]	File Custom-Script-Action.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-16 22:01:52.4623	[Files]	[14]	[Debug]	Uploading file Custom-Script-Action.js	2373ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:52.4623	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-16 22:01:53.3525	[Files]	[14]	[Debug]	Code execution scope ended	3263ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:53.4040	[Tenant Settings]	[14]	[Debug]	Code execution scope started	0ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:53.4045	[Tenant Settings]	[14]	[Debug]	Code execution scope ended	0ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:53.4241	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope started	0ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:53.4241	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope ended	0ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:53.4241	[Persist Template Info]	[14]	[Debug]	Code execution scope started	0ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:54.2221	[Persist Template Info]	[14]	[Debug]	Code execution scope ended	797ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:54.2221	[Provisioning]	[14]	[Debug]	Code execution scope ended	11269ms	7ece05bf-6def-42df-bb0d-18b6382c9aaa
+powershell.exe Information: 0 : 2018-10-16 22:01:54.7694	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.Script.Action.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-16 22:01:54.7704	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.Script.Action.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-16 22:01:54.8195	[Provisioning]	[14]	[Debug]	Code execution scope started	0ms	b334ccd7-b7ab-4bd5-b0b3-28c4091d1f26
+powershell.exe Information: 0 : 2018-10-16 22:01:54.8195	[Provisioning]	[14]	[Information]	ProgressDelegate registered	0ms	b334ccd7-b7ab-4bd5-b0b3-28c4091d1f26
+powershell.exe Information: 0 : 2018-10-16 22:01:54.8200	[Provisioning]	[14]	[Information]	MessagesDelegate registered	0ms	b334ccd7-b7ab-4bd5-b0b3-28c4091d1f26
+powershell.exe Information: 0 : 2018-10-16 22:01:59.8867	[Extensibility Providers]	[14]	[Debug]	Code execution scope started	0ms	b334ccd7-b7ab-4bd5-b0b3-28c4091d1f26
+powershell.exe Information: 0 : 2018-10-16 22:01:59.8867	[Extensibility Providers]	[14]	[Debug]	Code execution scope ended	0ms	b334ccd7-b7ab-4bd5-b0b3-28c4091d1f26
+powershell.exe Information: 0 : 2018-10-16 22:01:59.9017	[Tenant Settings]	[14]	[Debug]	Code execution scope started	0ms	b334ccd7-b7ab-4bd5-b0b3-28c4091d1f26
+powershell.exe Information: 0 : 2018-10-16 22:01:59.9017	[Tenant Settings]	[14]	[Debug]	Code execution scope ended	0ms	b334ccd7-b7ab-4bd5-b0b3-28c4091d1f26
+powershell.exe Information: 0 : 2018-10-16 22:01:59.9168	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope started	0ms	b334ccd7-b7ab-4bd5-b0b3-28c4091d1f26
+powershell.exe Information: 0 : 2018-10-16 22:01:59.9173	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope ended	0ms	b334ccd7-b7ab-4bd5-b0b3-28c4091d1f26
+powershell.exe Information: 0 : 2018-10-16 22:01:59.9294	[Custom Actions]	[14]	[Debug]	Code execution scope started	0ms	b334ccd7-b7ab-4bd5-b0b3-28c4091d1f26
+powershell.exe Information: 0 : 2018-10-16 22:02:00.0485	[Custom Actions]	[14]	[Debug]	Adding custom action 'QL_Dropdown' to scope Site	119ms	b334ccd7-b7ab-4bd5-b0b3-28c4091d1f26
+powershell.exe Information: 0 : 2018-10-16 22:02:00.3828	[Custom Actions]	[14]	[Debug]	Code execution scope ended	454ms	b334ccd7-b7ab-4bd5-b0b3-28c4091d1f26
+powershell.exe Information: 0 : 2018-10-16 22:02:00.3839	[Persist Template Info]	[14]	[Debug]	Code execution scope started	0ms	b334ccd7-b7ab-4bd5-b0b3-28c4091d1f26
+powershell.exe Information: 0 : 2018-10-16 22:02:01.3582	[Persist Template Info]	[14]	[Debug]	Code execution scope ended	974ms	b334ccd7-b7ab-4bd5-b0b3-28c4091d1f26
+powershell.exe Information: 0 : 2018-10-16 22:02:01.3592	[Provisioning]	[14]	[Debug]	Code execution scope ended	6539ms	b334ccd7-b7ab-4bd5-b0b3-28c4091d1f26

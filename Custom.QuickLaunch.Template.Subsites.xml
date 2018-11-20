@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<pnp:Provisioning xmlns:pnp="http://schemas.dev.office.com/PnP/2018/07/ProvisioningSchema">
+  <pnp:Preferences Author="Eric Overfield and adapted by Ramona Maxwell" />
+  <pnp:Templates ID="CONTAINER-OVERRIDE-LEFT-NAV-ACTIONONLY">
+    <pnp:ProvisioningTemplate ID="OVERRIDE-LEFT-NAV-ACTIONONLY" Version="1">
+      <pnp:CustomActions>
+        <pnp:SiteCustomActions>
+          <pnp:CustomAction Name="QL_Dropdown_Webs"
+            Location="ScriptLink"
+            Title="QL Dropdown Menu"
+            Sequence="30" 
+            ScriptSrc="https://sharepointsolver.sharepoint.com/sites/brandme/Style%20Library/QuickLaunch/Custom-Script-Action.js" />
+        </pnp:SiteCustomActions>
+      </pnp:CustomActions>
+        SiteLogo="https://sharepointsolver.sharepoint.com/sites/brandme/Style Library/Logo/connectslogo(78px).png" />
+    </pnp:ProvisioningTemplate>
+    </pnp:ProvisioningTemplate>
+  </pnp:Templates>
+</pnp:Provisioning>

@@ -1,0 +1,26 @@
+powershell.exe Information: 0 : 2018-10-17 21:22:39.2632	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 21:22:39.2642	[OfficeDevPnP.Core]	[0]	[Information]	File Custom.QuickLaunch.Template.xml retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 21:22:39.2852	[Provisioning]	[14]	[Debug]	Code execution scope started	0ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:22:39.2862	[Provisioning]	[14]	[Information]	ProgressDelegate registered	0ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:22:39.2872	[Provisioning]	[14]	[Information]	MessagesDelegate registered	1ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:22:58.2842	[Extensibility Providers]	[14]	[Debug]	Code execution scope started	0ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:22:58.2842	[Extensibility Providers]	[14]	[Debug]	Code execution scope ended	0ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:22:58.7273	[Files]	[14]	[Debug]	Code execution scope started	0ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:22:59.7959	[OfficeDevPnP.Core]	[0]	[Information]	Creating folder 'QuickLaunch' under List '/sites/brandme/SiteAssets'.	0ms	
+powershell.exe Information: 0 : 2018-10-17 21:23:01.9629	[OfficeDevPnP.Core]	[0]	[Information]	File left-nav-override.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 21:23:01.9634	[Files]	[14]	[Debug]	Uploading file left-nav-override.js	3235ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:23:01.9639	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'left-nav-override.js'	0ms	
+powershell.exe Information: 0 : 2018-10-17 21:23:05.7335	[OfficeDevPnP.Core]	[0]	[Information]	File Custom-Script-Action.js retrieved from folder 	0ms	
+powershell.exe Information: 0 : 2018-10-17 21:23:05.7345	[Files]	[14]	[Debug]	Uploading file Custom-Script-Action.js	7006ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:23:05.7345	[OfficeDevPnP.Core]	[0]	[Debug]	Creating file info with Url 'Custom-Script-Action.js'	0ms	
+powershell.exe Information: 0 : 2018-10-17 21:23:07.3367	[Files]	[14]	[Debug]	Code execution scope ended	8609ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:23:07.3813	[Tenant Settings]	[14]	[Debug]	Code execution scope started	0ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:23:07.3823	[Tenant Settings]	[14]	[Debug]	Code execution scope ended	0ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:23:07.4042	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope started	0ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:23:07.4052	[Application Lifecycle Management]	[14]	[Debug]	Code execution scope ended	0ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:23:07.4232	[Custom Actions]	[14]	[Debug]	Code execution scope started	0ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:23:07.8969	[Custom Actions]	[14]	[Debug]	Adding custom action 'QL_Dropdown' to scope Site	473ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:23:08.6390	[Custom Actions]	[14]	[Debug]	Code execution scope ended	1215ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:23:08.6400	[Persist Template Info]	[14]	[Debug]	Code execution scope started	0ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:23:11.2211	[Persist Template Info]	[14]	[Debug]	Code execution scope ended	2581ms	114357f0-8809-4875-98cd-d5c3908f4362
+powershell.exe Information: 0 : 2018-10-17 21:23:11.2221	[Provisioning]	[14]	[Debug]	Code execution scope ended	31935ms	114357f0-8809-4875-98cd-d5c3908f4362
