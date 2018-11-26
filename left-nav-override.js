@@ -22,21 +22,15 @@ function skinClassicQL(){
     $(this).siblings('li').children('ul').hide();
     console.log(e + "You activated the toggle.");
   });
-  
-  $(document).on('click', ".selected, .ms-quicklaunch-dropNode, .ms-core-listMenu-selected, .a", function(){
 
-  //$("[selected][ms-quicklaunch-dropNode][ms-core-listMenu-selected] a").click(function(e) { //never hitting this even though class shows on element
-    //var targetLink0 = $(e.currentTarget).attr("href")
-    //console.log(targetLink0);
-    //var targetLink1 = $(e.currentTarget).getAttribute("href") 
-    //console.log(targetLink1);
-    var targetLink2 = $(this).getAttribute("href");
-    console.log(targetLink2);
-    var targetLink3 = $(this).attr("href");
-    console.log(targetLink3);
-    window.localStorage.setItem('selectedItem', targetLink2);
-    console.log("You hit the anchor tag.");
-  });
+  //Removed classes since they don't have href attr [selected][ms-quicklaunch-dropNode][ms-core-listMenu-selected] 
+
+    //Because the link is dynamic bind to the document? $(document).on(click, "a", function(){} ); - except don't want to bind to clicks anywhere on the page - only the QL so 
+    $("div[id$=_V4QuickLaunchMenu]").on($("a").click(function(e) {
+    var targetLink2 = $(this.currentTarget).getAttribute("href");
+    console.log(targetLink2 + " is the href attribute of the anchor tag.");
+    window.localStorage.setItem('selectedItem', $(this).targetLink2);
+  }));
 
   $("span[id^=zz][id$=_V4QuickLaunchMenu_NavMenu_Edit]").hide();
   }
