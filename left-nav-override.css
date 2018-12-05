@@ -29,6 +29,10 @@
     color: #5d5f5e;
 }
 
+subMenuSelected span {
+    background-color: #7E94AE;
+}
+
 /* O365 icon fonts */
 
 @font-face {
