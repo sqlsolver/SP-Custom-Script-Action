@@ -30,7 +30,7 @@ function storeUrl(e) {
  
  //if localStorage is !null, open the drawer containing its anchor plus highlight the anchor
  function selectedStyle() {
-  if(window.location.href.indexOf("localStorage.getItem('selectedItem')") > -1) {
+  if(window.location.href.indexOf(localStorage.getItem('selectedItem')) > -1) {
     $("[id^=zz][id$=_RootAspMenu] li").children('ul').slideToggle(300).removeClass("baseText").addClass("subMenu subMenuText"); 
     $("[id^=zz][id$=_RootAspMenu] li").siblings('li').children('ul').hide();
     $("[id^=zz][id$=_RootAspMenu] span").addClass("subMenuSelected"); 
